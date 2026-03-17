@@ -1,0 +1,12 @@
+Comparison,W-stat,p-value,Significant
+XGBoost vs Logistic Regression,5.0,0.625,False
+XGBoost vs MLP,0.0,0.0625,False
+XGBoost vs SVM Linear,2.0,0.1875,False
+XGBoost vs SVM RBF,0.0,0.0625,False
+XGBoost vs Random Forest,5.0,0.625,False
+XGBoost vs Gradient Boosting,1.0,0.125,False
+XGBoost vs Extra Trees,4.0,0.4375,False
+XGBoost vs KNN (k=5),1.0,0.125,False
+XGBoost vs KNN (k=9),1.0,0.125,False
+XGBoost vs Naive Bayes,0.0,0.0625,False
+XGBoost vs LDA,2.0,0.1875,False

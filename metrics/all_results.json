@@ -4831,5 +4831,37 @@
         "auc": 0.9956259259259259
       }
     }
+  },
+  "ESED_Ensemble": {
+    "accuracy": 0.9838,
+    "macro_f1": 0.9838,
+    "macro_pre": 0.9838,
+    "macro_rec": 0.9838,
+    "auc": 0.9993,
+    "meta_learner": "XGBoost",
+    "cv_f1_mean": 0.9936,
+    "cv_f1_std": 0.0009,
+    "per_class": {
+      "COVID": {
+        "precision": 0.9785,
+        "recall": 0.9867,
+        "f1": 0.9826
+      },
+      "Pneumonia": {
+        "precision": 0.9867,
+        "recall": 0.9917,
+        "f1": 0.9892
+      },
+      "TB": {
+        "precision": 0.9949,
+        "recall": 0.9833,
+        "f1": 0.9891
+      },
+      "Normal": {
+        "precision": 0.975,
+        "recall": 0.9733,
+        "f1": 0.9741
+      }
+    }
   }
 }

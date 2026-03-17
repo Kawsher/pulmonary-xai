@@ -1,0 +1,6 @@
+Comparison,Base AUC,Ensemble AUC,Z-stat,p-value,Significant
+Ensemble vs DenseNet201,0.9987,0.9993,1.0451,0.444377,False
+Ensemble vs EfficientNetB4,0.9968,0.9993,3.2088,0.074341,False
+Ensemble vs ResNet50V2,0.9978,0.9993,2.1698,0.161807,False
+Ensemble vs InceptionV3,0.9962,0.9993,3.2486,0.084894,False
+Ensemble vs ConvNeXtTiny,0.9977,0.9993,2.2533,0.159763,False
